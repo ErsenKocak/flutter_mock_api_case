@@ -1,0 +1,60 @@
+{  
+    "YES":"Yes",    
+"NO":"No",    
+"PROCESS_RESULT":"Process Result",    
+"DELETE_SUCCESS":"Delete Process Successful!",    
+"DELETE_ERROR":"Deletion failed!",    
+"STAY_THIS_SCREEN":"Stay on this Screen",    
+"GO_LIST_SCREEN":"Go To List Screen",  
+"POSITION_UP":"Position brought up",      
+"WRITE":"Write",    
+"CHOOSE":"Choose",  
+"REQUIRED":"Required Field*",  
+"":"",    
+"":"",   "LOGIN": {
+        "USERNAME": "Username",
+        "PASSWORD": "Password",
+        "REMEMBER_ME": "Remember me",
+        "LOGIN": "Login",
+        "USERNAME_EMPTY":"Username cannot be empty",
+    "PASSWORD_EMPTY":"Password cannot be empty"
+    },
+    "PERSON":{
+        "PERSON":"Person",
+        "IDENDITY":"Idendity Number",
+        "IDENDITY_ERROR":"Idendity Number Error!",
+        "NAME":"Name",
+        "SURNAME":"Surname",
+        "NAME_SURNAME":"Name/Surname",
+        "SALLARY":"Sallary",
+        "COMPANY":"Company",
+        "JOB_TITLE":"Job Title",
+        "JOB_DESCRIPTION":"Job Description",
+        "BIRTH_DAY":"Birth Day",
+        "PHONE_NUMBER":"Phone Number"
+
+    },
+    "PERSON_LIST_VIEW":{
+
+        "APP_BAR_TITLE": "Person List",
+        "FAB_BUTTON_UP":"Go Up",
+        "FAB_BUTTON_ADD_PERSON":"Add Person",
+        "PERSON_DELETE":"Delete Person",
+        "PERSON_DELETE_PROCESS":"Person Delete Process",
+        "PERSON_DELETE_PROCESS_SURE":"Are you sure you want to delete?",
+        "REFRESH":"Refresh"
+  
+    },
+    "PERSON_DETAIL_VIEW":{
+        "ADD_PERSON":"Add Person",
+        "ADD_PERSON_RESULT":"Add Person Result",
+        "ADD_PERSON_RESULT_SUCCESS":"Add Person Success",
+        "ADD_PERSON_RESULT_ERROR":"Add Person Failed",
+        
+        "UPDATE_PERSON_RESULT":"Update Person Result",
+        "UPDATE_PERSON_RESULT_SUCCESS":"Update Person Success",
+        "UPDATE_PERSON_RESULT_ERROR":"Update Person Failed",
+        "":"",
+        "":""
+        }
+}

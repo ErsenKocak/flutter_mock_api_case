@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e543ac93-0ab1-4b62-a134-3d7f4d22feff" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2EuE1q51u9qDVy6isHBYY6a0rre" />
+  <component name="PropertiesComponent">
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+</project>
