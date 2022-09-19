@@ -1,0 +1,66 @@
+{ 
+"YES":"Evet",    
+"NO":"Hayır",    
+"PROCESS_RESULT":"İşlem Sonucu",    
+"DELETE_SUCCESS":"Başarıyla Silindi!",    
+"DELETE_ERROR":"Silinemedi!",    
+"STAY_THIS_SCREEN":"Bu Ekranda Kal",    
+"GO_LIST_SCREEN":"Liste Ekranına Git",    
+"POSITION_UP":"Konum yukarı getirildi",    
+"WRITE":"Yazınız",    
+"CHOOSE":"Seçiniz",
+"REQUIRED":"Zorunlu Alan*",    
+
+
+
+"LOGIN": {
+    "USERNAME": "Kullanıcı Adı",
+    "PASSWORD": "Şifre",
+    "REMEMBER_ME": "Beni Hatırla",
+    "LOGIN": "Giriş Yap",
+    "USERNAME_EMPTY":"Lütfen Kullanıcı Adınızı Girin",
+    "PASSWORD_EMPTY":"Lütfen Şifrenizi Girin"
+},
+"PERSON":{
+    "PERSON":"Kişi",
+    "IDENDITY":"Kimlik No",
+    "IDENDITY_ERROR ":"Kimlik No Hatalı!",
+    "NAME":"Ad",
+    "SURNAME":"Soyad",
+    "NAME_SURNAME":"Ad/Soyad",
+    "SALLARY":"Maaş",
+    "COMPANY":"Firma",
+    "JOB_TITLE":"Meslek",
+    "JOB_DESCRIPTION":"Meslek Açıklaması",
+    "BIRTH_DAY":"Doğum Günü",
+    "PHONE_NUMBER":"Telefon Numarası"
+    
+},
+"PERSON_LIST_VIEW":{
+
+    "APP_BAR_TITLE": "Kişi Listesi",
+    "FAB_BUTTON_UP":"Yukarı",
+    "FAB_BUTTON_ADD_PERSON":"Kişi Ekle",
+    "PERSON_DELETE":"Kişi'yi Sil",
+    "PERSON_DELETE_PROCESS":"Kişi Silme İşlemi",
+    "PERSON_DELETE_PROCESS_SURE":"Silmek istediğinize emin misiniz?",
+    "REFRESH":"Yenile"
+    
+},
+"PERSON_DETAIL_VIEW":{
+"ADD_PERSON":"Kişi Ekle",
+"ADD_PERSON_RESULT":"Kişi Ekleme Sonucu",
+
+"ADD_PERSON_RESULT_SUCCESS":"Kişi Başarıyla Eklendi",
+"ADD_PERSON_RESULT_ERROR":"Kişi Eklenirken Hata Oluştu",
+
+"UPDATE_PERSON_RESULT":"Kişi Güncelleme Sonucu",
+"UPDATE_PERSON_RESULT_SUCCESS":"Kişi Başarıyla Güncellendi",
+"UPDATE_PERSON_RESULT_ERROR":"Kişi Güncellemede Hata!"
+
+
+}
+
+
+
+}
